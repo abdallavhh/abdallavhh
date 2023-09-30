@@ -5,7 +5,7 @@
     <li>I'm still learning.</li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>   <li>I'm currently seeking new opportunities to apply my knowledge</li>
     <li>I enjoy documenting my projects on Medium to gain a deeper understanding of my work.</li>
-    <li>Focusing on learning <b>Machine learning</b> right now.</li>
+<!--     <li>Focusing on learning ..... right now.</li> -->
 <b>How to reach me:-</b> 
 abdallavhh@gmail.com
   </ul>
