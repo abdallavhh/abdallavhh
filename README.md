@@ -13,6 +13,7 @@ abdallavhh@gmail.com
 
 
 ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006118179470)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallavhh/) 
 [![electorpi.ai](https://electropi.ai/user-profile/abdallaahmed3002)]
 
