@@ -14,7 +14,7 @@ abdallavhh@gmail.com
 
 ## 🌐 Socials:
 [![instagram](https://img.shields.io/badge/instagram-%231877F2.svg?logo=instagram&logoColor=white)](https://www.instagram.com/abdallavhh/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006118179470)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdallavh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallavhh/) 
 
 
