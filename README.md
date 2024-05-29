@@ -6,8 +6,7 @@
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>   <li>I'm currently seeking new opportunities to apply my knowledge</li>
     <li>I enjoy documenting my projects on github to gain a deeper understanding of my work.</li>
 <!--     <li>Focusing on learning ..... right now.</li> -->
-<b>How to reach me:-</b> 
-abdallavhh@gmail.com
+
   </ul>
 </div>
 
